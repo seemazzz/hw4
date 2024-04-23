@@ -3,9 +3,10 @@
 ## Week 4
 ### Markdown and Latex
 
-Make **bold**
+### Make **bold**
 
---*If you wish to <u>underline</u> the text
+### Underline
+If you wish to <u>underline</u> the text
 
 
 ### For creating link to any sites
